@@ -1,0 +1,9 @@
+anh 8
+bao 9 
+hoang 10
+ngan 8.3
+ha 10
+kim 9.2
+heo 9
+vit 8.6
+cho 8
